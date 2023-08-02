@@ -1,14 +1,22 @@
 [
     {
-        "package": "glitter",
-        "url": "https://github.com/lvaudor/glitter"
+        "package": "elevatr",
+        "url": "https://github.com/jhollist/elevatr"
     },
     {
-        "package": "cransays",
-        "url": "https://github.com/lockedata/cransays"
+        "package": "dadjokeapi",
+        "url": "https://github.com/jhollist/dadjokeapi"
     },
     {
-        "package": "roblog",
-        "url": "https://github.com/ropenscilabs/roblog"
+        "package": "lakemorpho",
+        "url": "https://github.com/usepa/lakemorpho"
+    },
+    {
+        "package": "quickmapr",
+        "url": "https://github.com/geogugal/quickmapr"
+    },
+    {
+        "package": "nsink",
+        "url": "https://github.com/usepa/nsink"
     }
 ]
